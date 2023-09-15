@@ -7,8 +7,8 @@ void main() {
   runApp(
     MaterialApp(
       // Configura la pantalla principal de la aplicación
-      //home: HomePage(),
-      home:Test1Page(),
+      home: HomePage(),
+      //home:Test1Page(),
     ),
   );
 }
